@@ -3,11 +3,11 @@
 ![logo](http://go.liuqh.icu/public/author.png)
 
 
-# **LearnGo**
+# **面试题汇总**
 
-> 汇总学习Go过程中的点点滴滴。
+> 汇总面试中，经常被问到的问题
 
-- 高效学习、简要整理、长期复习
+- 居安思危、与时俱进
 
 
 [GitHub](https://github.com/52lu)
